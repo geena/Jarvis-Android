@@ -51,7 +51,7 @@ import java.util.Locale;
  * 2. To allow plugins to redirect URLs (via remapUrl).
  *   - All plugins should call remapUrl() on URLs they receive from JS *before*
  *     passing the URL onto other utility functions in this class.
- *   - For an example usage of this, refer to the org.apache.cordova.file plugin.
+ *   - For an mdpchallenge usage of this, refer to the org.apache.cordova.file plugin.
  *
  * Future Work:
  *   - Consider using a Cursor to query content URLs for their size (like the file plugin does).

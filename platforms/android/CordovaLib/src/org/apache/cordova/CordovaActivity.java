@@ -49,7 +49,7 @@ import android.widget.FrameLayout;
  * application. It should be extended by the user to load the specific
  * html file that contains the application.
  *
- * As an example:
+ * As an mdpchallenge:
  * 
  * <pre>
  *     package org.apache.cordova.examples;
